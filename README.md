@@ -1,14 +1,14 @@
-#KIDNEY DISEASE IMAGE SEGMENTATION USING GAN MODEL
+# KIDNEY DISEASE IMAGE SEGMENTATION USING GAN MODEL
 
-##Description
+## Description
 
-The project utilizes Generative Adversarial Networks (GANs) for precise segmentation of medical images, focusing on CT scans of the kidney. The objective is to automate the detection and classification of abnormalities such as cysts, tumors, and stones, improving diagnostic accuracy and reducing manual workload for radiologists.
+The project utilizes Generative Adversarial Networks (GANs) for precise segmentation of kidney medical images, focusing on CT scans of the kidney. The objective is to automate the detection and classification of abnormalities such as cysts, tumors, and stones, improving diagnostic accuracy and reducing manual workload for radiologists.
 
-##About
+## About
 
-Medical Image Segmentation using GANs is designed to enhance medical imaging analysis through deep learning techniques. Traditional segmentation methods are often limited by manual annotation efforts and inconsistencies. This project leverages GANs to produce high-quality segmented images, facilitating faster and more accurate diagnosis. The model undergoes rigorous training to differentiate between normal and abnormal kidney structures, enabling automated segmentation with minimal human intervention.
+Kidney Image Segmentation using GANs is designed to enhance medical imaging analysis through deep learning techniques. Traditional segmentation methods are often limited by manual annotation efforts and inconsistencies. This project leverages GANs to produce high-quality segmented images, facilitating faster and more accurate diagnosis. The model undergoes rigorous training to differentiate between normal and abnormal kidney structures, enabling automated segmentation with minimal human intervention.
 
-##Features
+## Features
 
 Implements Generative Adversarial Networks (GANs) for high-precision segmentation.
 
@@ -20,7 +20,7 @@ Optimized processing time for real-time segmentation.
 
 Utilizes structured JSON data format for result storage and retrieval.
 
-##Requirements
+## Requirements
 
 Operating System: Requires a 64-bit OS (Windows 10, Ubuntu) for compatibility with deep learning frameworks.
 
@@ -36,11 +36,11 @@ IDE: Use of VSCode or Jupyter Notebook for coding, debugging, and visualization.
 
 Additional Dependencies: NumPy, SciPy, Scikit-learn, and Matplotlib for data processing and visualization.
 
-##System Architecture
+## System Architecture
 
 
 
-##Output
+## Output
 
 Output1 - Original CT Scan Image
 
@@ -50,15 +50,14 @@ Output2 - Segmented Image
 
 
 
-##Results and Impact
+## Results and Impact
 
-The project significantly enhances the efficiency of medical image analysis by automating segmentation tasks. It reduces the dependency on manual annotation, thus saving time and effort while maintaining high accuracy. The implementation of GANs ensures precise and reliable segmentation, aiding healthcare professionals in making better-informed decisions.
+The project significantly enhances the efficiency of kidney image analysis by automating segmentation tasks. It reduces the dependency on manual annotation, thus saving time and effort while maintaining high accuracy. The implementation of GANs ensures precise and reliable segmentation, aiding healthcare professionals in making better-informed decisions.
 
 This project lays the groundwork for future advancements in AI-driven medical imaging, potentially extending to other modalities such as MRI and X-ray segmentation.
 
-##Articles Published / References
+## Articles Published / References
 
 J. Doe, A. Smith, "Enhancing Medical Image Segmentation with GANs," Journal of AI in Healthcare, vol. 15, no. 2, March 2024.
 
 R. Patel, B. Johnson, "Deep Learning for Automated Medical Diagnosis: A GAN-Based Approach," AI & Medicine, vol. 10, no. 1, Feb. 2024.
-
